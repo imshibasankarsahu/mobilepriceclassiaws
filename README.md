@@ -101,7 +101,7 @@ SageMaker Canvas (No-Code Option)
 
 Access SageMaker Canvas via AWS Console.
 Upload mob_price_classification_train.csv.
-Select "Classification" and set price_range as target.
+Select Classification and set price_range as target.
 Train and deploy model using the Canvas UI.
 See SageMaker Canvas Documentation.
 
